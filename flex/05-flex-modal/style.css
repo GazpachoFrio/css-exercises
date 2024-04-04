@@ -29,6 +29,7 @@ body {
 
 .icon {
   float: left;
+  margin: 10px;
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
