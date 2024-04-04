@@ -16,7 +16,8 @@ img {
   margin-bottom:36px;
 }
  div {display: flex;
-  align-items: center;
+  align-items: justify;
+  text-align: center;
 }
   
 
