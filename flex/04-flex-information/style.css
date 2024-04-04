@@ -3,11 +3,14 @@ body {
 }
 
 img {
+  display:flex;
+  align-self: text;
   width: 100px;
   height: 100px;
 }
 
 .title {
+  text-align: center;
   font-size: 36px;
   font-weight: 900;
 }
