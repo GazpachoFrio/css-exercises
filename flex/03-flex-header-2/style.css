@@ -55,5 +55,6 @@ div{
   align-items:center;
   padding: 8px;
 }
-li { margin:right 8px;
+li { display: flex;
+   margin:right 8px;
 }
