@@ -4,7 +4,8 @@ body {
 
 img {
   display: flex;
-  align-items: .text;
+  float: text;
+  align-items: center;
   margin: 10px;
   width: 100px;
   height: 100px;
@@ -18,6 +19,7 @@ img {
 }
 .text{ display: flex;
   vertical-align: center;
+  
 }
 /* do not edit this footer */
 .footer {
