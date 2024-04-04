@@ -17,7 +17,9 @@ body {
 
 .text {margin: 10px
 }
-
+.header {
+  margin: 10px;
+}
 .modal {
   background: white;
   width: 480px;
