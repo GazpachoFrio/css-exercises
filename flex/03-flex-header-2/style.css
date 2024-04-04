@@ -37,15 +37,15 @@ button {
   padding: 8px 24px;
 }
 
-a { display: flex;
-  align-items:center;
-  padding: 8px;
+a { 
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
 }
 
-ul {
+ul {display: flex;
+  align-items:center;
+  padding: 8px;
   list-style-type: none;
 }
 div{
