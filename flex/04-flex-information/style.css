@@ -4,8 +4,7 @@ body {
 
 img {
   display: flex;
-  float: text;
-  align-items: center;
+  float: top;
   margin: 10px;
   width: 100px;
   height: 100px;
