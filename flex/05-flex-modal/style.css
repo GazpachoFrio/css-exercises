@@ -36,6 +36,8 @@ body {
 }
 
 .close-button {
+  display: flex;
+  margin-block-start: right;
   background: #eee;
   border-radius: 50%;
   color: #888;
