@@ -16,8 +16,8 @@ img {
   font-weight: 900;
   margin-bottom:36px;
 }
-.text{ 
-  float: bottom,
+.text{ vertical-align: middle;
+ 
 
 }
 /* do not edit this footer */
