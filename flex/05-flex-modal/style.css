@@ -16,6 +16,7 @@ body {
 }
 
 .text {
+  margin-right: var(header);
   align-self: justify;
 }
 .header { text-decoration: bold;
