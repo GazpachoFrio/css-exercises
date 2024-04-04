@@ -45,7 +45,7 @@ body {
 }
 
 .close-button {
-  float: right;
+  float: var(header)
   display: flex;
   margin-right: 10px;
   background: #eee;
