@@ -45,7 +45,7 @@ body {
 }
 
 .close-button {
-  float: inline-start;
+  margin-top: right;
   display: flex;
   margin-right: 10px;
   background: #eee;
