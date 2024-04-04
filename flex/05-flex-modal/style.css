@@ -16,10 +16,10 @@ body {
 }
 
 .text {
-  margin-right: var(header);
+  float: under;
   align-self: justify;
 }
-.header { text-decoration: bold;
+.header { text-decoration: solid;
   margin: 10px;
 }
 .modal {
@@ -45,7 +45,7 @@ body {
 }
 
 .close-button {
-  float: var(header)
+  float: inline-start;
   display: flex;
   margin-right: 10px;
   background: #eee;
