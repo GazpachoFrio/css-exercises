@@ -16,7 +16,7 @@ body {
 }
 
 .text {
-  align-self: center;
+  align-self: justify;
 }
 .header { text-decoration: bold;
   margin: 10px;
