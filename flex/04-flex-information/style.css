@@ -5,6 +5,7 @@ body { display: flex;
 }
 
 img {
+  display: inline-block;
  vertical-align: middle;
   margin: 10px;
   width: 100px;
@@ -17,6 +18,8 @@ img {
   margin-bottom:36px;
 }
  .text {
+  display: inline-block;
+  vertical-align: middle;
   margin-top: 10px;
 }
   
