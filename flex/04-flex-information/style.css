@@ -17,9 +17,7 @@ img {
   margin-bottom:36px;
 }
 .text{ display: flex;
-  vertical-align: middle;
- 
-
+  vertical-align: center;
 }
 /* do not edit this footer */
 .footer {
