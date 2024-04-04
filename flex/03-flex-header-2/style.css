@@ -48,7 +48,7 @@ ul {display: flex;
   align-items:center;
   padding: 8px;
   list-style-type: none;
-  margin:8px;
+  margin:right 8px;
 }
 div{
   display: flex;
