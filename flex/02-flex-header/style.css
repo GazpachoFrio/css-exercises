@@ -24,6 +24,7 @@ a {
   text-decoration: none;
 }
 div {
+  text-align: justify;
   flex: auto;
 
 } 
