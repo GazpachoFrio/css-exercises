@@ -37,7 +37,9 @@ button {
   padding: 8px 24px;
 }
 
-a {
+a { display: flex;
+  align-items:center;
+  padding: 8px;
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
@@ -49,5 +51,5 @@ ul {
 div{
   display: flex;
   align-items:center;
-  padding: auto;
+  padding: 8px;
 }
