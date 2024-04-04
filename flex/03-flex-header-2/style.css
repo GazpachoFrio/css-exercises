@@ -30,7 +30,7 @@ body {
   font-style: italic;
 }
 
-button {
+button { align-items: right;
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
