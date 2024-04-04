@@ -48,10 +48,12 @@ ul {display: flex;
   align-items:center;
   padding: 8px;
   list-style-type: none;
-  margin:right 8px;
+  
 }
 div{
   display: flex;
   align-items:center;
   padding: 8px;
+}
+li { margin:right 8px;
 }
