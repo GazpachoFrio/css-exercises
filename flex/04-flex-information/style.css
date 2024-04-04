@@ -15,7 +15,8 @@ img {
   font-weight: 900;
   margin-bottom:36px;
 }
-.div {text-align: center;
+.div {display: flex;
+  align-items: center;
 }
   
 
