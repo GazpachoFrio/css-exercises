@@ -16,7 +16,8 @@ img {
   font-weight: 900;
   margin-bottom:36px;
 }
-.text{ vertical-align: middle;
+.text{ display: flex;
+  vertical-align: middle;
  
 
 }
