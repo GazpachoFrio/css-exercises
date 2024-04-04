@@ -39,6 +39,8 @@ button { align-self: right;
 }
 
 a { 
+  display: flex;
+   margin: 8px;
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
@@ -54,7 +56,4 @@ div{
   display: flex;
   align-items:center;
   padding: 8px;
-}
-li { display: flex;
-   margin:right 8px;
 }
