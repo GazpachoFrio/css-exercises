@@ -15,9 +15,10 @@ body {
   justify-content: center;
 }
 
-.text {margin: 10px
+.text {
+  align-self: center;
 }
-.header {
+.header { text-decoration: bold;
   margin: 10px;
 }
 .modal {
@@ -43,7 +44,7 @@ body {
 }
 
 .close-button {
-  float: right;
+  float: r;
   display: flex;
   margin-right: 10px;
   background: #eee;
