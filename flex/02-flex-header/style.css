@@ -20,6 +20,8 @@ ul {
 }
 
 a {
+  display: flex;
+  align-items: center;
   font-size: 22px;
   background: white;
   padding: 8px;
