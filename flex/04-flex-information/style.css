@@ -3,7 +3,8 @@ body {
 }
 
 img {
-  float: top;
+  display: flex;
+  align-items: center;
   margin: 10px;
   width: 100px;
   height: 100px;
