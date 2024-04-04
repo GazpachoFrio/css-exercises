@@ -11,15 +11,14 @@ img {
 }
 
 .title {
-  text-align: center;
   font-size: 36px;
   font-weight: 900;
   margin-bottom:36px;
 }
-.alt{ display: flex;
-  vertical-align: center;
-  
+.div {text-align: center;
 }
+  
+
 /* do not edit this footer */
 .footer {
   position: fixed;
