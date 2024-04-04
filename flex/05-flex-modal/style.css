@@ -28,6 +28,7 @@ body {
 }
 
 .icon {
+  float: left;
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
